@@ -8,11 +8,15 @@ A React-based landing page replica for a luxury hotel — a second iteration exp
 
 A side-by-side comparison of the original design and my recreation.
 
-| Original Design | My Replica |
-|:---:|:---:|
+|                Original Design                |                   My Replica                   |
+| :-------------------------------------------: | :--------------------------------------------: |
 | ![Original](./public/original-screenshot.png) | ![Replica](./public/my-replica-screenshot.png) |
 
-*Design inspired by [Original Hotel Site Name](#) — replicated for practice/learning purposes.*
+_Design inspired by [Original Hotel Site Name](#) — replicated for practice/learning purposes._
+
+## 🧭 Project Status
+
+This project is under active development. The desktop experience is fully built out; responsive support for tablet and mobile breakpoints is planned as the next milestone.
 
 ## ✨ Features
 
@@ -67,12 +71,12 @@ npm -v
 
 ## 📜 Available Scripts
 
-| Command         | Description                                      |
-|-----------------|---------------------------------------------------|
-| `npm start`     | Runs the app in development mode                  |
-| `npm test`      | Launches the test runner in watch mode            |
+| Command         | Description                                         |
+| --------------- | --------------------------------------------------- |
+| `npm start`     | Runs the app in development mode                    |
+| `npm test`      | Launches the test runner in watch mode              |
 | `npm run build` | Builds the app for production to the `build` folder |
-| `npm run eject` | Ejects the CRA configuration (one-way operation)  |
+| `npm run eject` | Ejects the CRA configuration (one-way operation)    |
 
 ## 📁 Project Structure
 
